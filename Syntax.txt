@@ -1,0 +1,136 @@
+Syntax
+~~~~~~
+
+Note: (number) can be any equation within parentheses (e.g. (tan 45) or (2(3)))
+
+Absolute value
+	abs (number)
+	abs number
+
+Cosecant
+	csc (number)
+	csc number
+
+Cosine
+	cos (number)
+	cos number
+
+Cotangent
+	cot (number)
+ 	cot number
+
+Hyperbolic Sine
+	hsin (number)
+	hsin number
+
+Hyperbolic Cosine
+	hcos (number)
+	hcos number
+
+Hyperbolic Tangent
+	htan (number)
+	htan number
+
+Hyperbolic Cosecant
+	hcsc (number)
+	hcsc number
+
+Hyperbolic Secant
+	hsec (number)
+	hsec number
+
+Hyperbolic Cotangent
+	hcot (number)
+	hcot number
+
+Inverse Sine
+	isin (number)
+	isin number
+
+Inverse Cosine
+	icos (number)
+	icos number
+
+Inverse Tangent
+	itan (number)
+	itan number
+
+Inverse Cosecant
+	icsc (number)
+	icsc number
+
+Inverse Secant
+	isec (number)
+	isec number
+
+Inverse Cotangent
+	icot (number)
+	icot number
+
+Inverse Hyperbolic Sine
+	ihsin (number)
+	ihsin number
+
+Inverse Hyperbolic Cosine
+	ihcos (number)
+	ihcos number
+
+Inverse Hyperbolic Tangent
+	ihtan (number)
+	ihtan number
+
+Inverse Hyperbolic Cosecant
+	ihcsc (number)
+	ihcsc number
+
+Inverse Hyperbolic Secant
+	ihsec (number)
+	ihsec number
+
+Inverse Hyperbolic Cotangent
+	ihcot (number)
+	ihcot number
+
+Logarithm
+	log (number)
+	log number
+
+Natural logarithm
+	ln (number)
+	ln number
+
+Negative
+	-(number)
+	-number
+
+Parenthesis
+	(number)
+
+Previous answer
+	ans
+
+Random number
+	rnd
+
+Secant
+	sec (number)
+	sec number
+
+Sine
+	sin (number)
+	sin number
+
+Square root
+	sr (number)
+	sr number
+
+Tangent
+	tan (number)
+	tan number
+
+
+Copyright
+~~~~~~~~~
+
+Copyright © 2000 Anton Venema.  All Rights Reserved.
+Warning: This computer program is protected by copyright law and international treaties.  Unlawful copying of this program, or any portion of it, may result in severe civil and criminal penalties, and will be prosecuted to the maximum extent possible under the law.
